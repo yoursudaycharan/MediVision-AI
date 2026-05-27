@@ -6,3 +6,4 @@ pandas
 plotly
 gtts
 google-generativeai
+python-dotenv
